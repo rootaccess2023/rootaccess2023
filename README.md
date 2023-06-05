@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rootaccess2023&color=orange)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rootaccess2023)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **javascript, react, vue**
 
