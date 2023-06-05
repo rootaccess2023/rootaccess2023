@@ -5,17 +5,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rootaccess2023)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **javascript, react, vue**
+- 🌱 I’m currently learning **html, css, javascript, react, sql, API**
 
-- 👨‍💻 All of my projects are available at **[https://albertyumol.github.io/](https://albertyumol.github.io/)**
+- 👨‍💻 All of my projects are available at **TBD**
 
-- 📝 I write articles on **[https://www.linkedin.com/in/albertyumol/](https://www.linkedin.com/in/albertyumol/)**
+- 📝 I write articles on **TBD**
 
-- 💬 Ask me about **data science, machine learning, deep learning, computer version, data ethics, data activism**
+- 💬 Ask me about **web development**
 
-- 📫 Reach me via email at **albert.yumol@gmail.com**
-
-- ⚡ Fun fact: **I'm a tarot card reader**
+- ⚡ Fun fact: **I love Red Velvet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
