@@ -22,7 +22,6 @@
 <a href="https://www.facebook.com/bash.yumol.3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bash.yumol.3" height="30" width="40" /></a>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootaccess2023&theme=buefy_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootaccess2023&layout=compact)
