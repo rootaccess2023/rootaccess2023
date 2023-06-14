@@ -23,6 +23,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootaccess2023&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootaccess2023&theme=tokyonight_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootaccess2023&layout=compact)
