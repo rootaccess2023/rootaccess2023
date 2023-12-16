@@ -28,7 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rootaccess"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rootaccess" /></a></p><br><br><br>
 
-[![Paulo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rootaccess2023)
+[![Paulo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rootacce2023&&theme=xcode)](https://github.com/rootaccess2023)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootaccess2023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rootaccess2023" /></p>
 
