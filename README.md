@@ -1,15 +1,9 @@
-# Hey there :wave:
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rootaccess2023/count.svg" />
 </p>
-
-
-<h1 align="center">Hi 👋 I'm Paulo</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootaccess2023&label=Profile%20views&color=0e75b6&style=flat" alt="rootaccess2023" /> </p>
 
