@@ -13,6 +13,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+paulo+;I'm+a+passionate+Front+End+Developer;I+build+user-friendly+websites++;And+welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
+|   TROPHIES     |
+| ----------- |
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023&theme=onedark" alt="rootaccess2023" /></a> </p>
 
 - 🌱 I’m currently learning **from Avion Bootcamp**
