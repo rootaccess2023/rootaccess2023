@@ -41,6 +41,8 @@ One of my favorite quotes is "${quote}", and I believe that with dedication and 
 
 introduceMyself(introduction);
 ```
+|   CONNECT WITH ME     |
+| ----------- |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
