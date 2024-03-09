@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Profile views<br>
-  <img src="https://profile-counter.glitch.me/rootaccess2023/count.svg" />
+  <img color="yellow" src="https://profile-counter.glitch.me/rootaccess2023/count.svg" />
 </p>
 
 <!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif) -->
