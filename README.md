@@ -1,11 +1,9 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
+  Profile views<br>
   <img src="https://profile-counter.glitch.me/rootaccess2023/count.svg" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootaccess2023&label=Profile%20views&color=0e75b6&style=flat" alt="rootaccess2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023" alt="rootaccess2023" /></a> </p>
 
