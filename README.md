@@ -8,7 +8,7 @@
 <!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif) -->
 <!-- |   HI THERE, I'M HERNIE <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    | -->
 
-|   HI THERE <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
+|   HI THERE     |
 | ----------- |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+paulo+;I'm+a+passionate+Front+End+Developer;I+build+user-friendly+websites++;And+welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
