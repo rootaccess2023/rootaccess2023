@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋 I'm Paulo</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023" alt="rootaccess2023" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
@@ -9,6 +6,9 @@
   Profile views<br>
   <img src="https://profile-counter.glitch.me/rootaccess2023/count.svg" />
 </p>
+
+<h1 align="center">Hi 👋 I'm Paulo</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **from Avion Bootcamp**
 
