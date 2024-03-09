@@ -11,12 +11,10 @@
 |   HI THERE <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
 | ----------- |
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+paulo+;I'm+a+Front+End+Developer;I+build+user-friendly+websites++;And+welcome+to+my+profile!+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+paulo+;I'm+a+passionate+Front+End+Developer;I+build+user-friendly+websites++;And+welcome+to+my+profile!+%F0%9F%99%82)](https://git.io/typing-svg)
 
 <br />
-
-<h1 align="center">Hi 👋 I'm Paulo</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023" alt="rootaccess2023" /></a> </p>
 
