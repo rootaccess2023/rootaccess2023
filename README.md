@@ -43,18 +43,15 @@ introduceMyself(introduction);
 | ----------- |
 
 <p align="left">
-<a href="https://twitter.com/polorevilo" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn"/>
-  <img width="12" />
-</a>
-<a href="https://linkedin.com/in/paulo oliver" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn"/>
-  <img width="12" />
-</a>
-<a href="https://instagram.com/polo.revilo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polo.revilo" height="30" width="40" />
-</a>
-</p><br>
+  <a href="polo.revilo19@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo" title="Gmail"/>
+    <img width="12" />
+  </a>
+  <a href="https://linkedin.com/in/paulo oliver" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn"/>
+    <img width="12" />
+  </a>
+</p>
 
 |   LANGUAGES    |
 | ----------- |
