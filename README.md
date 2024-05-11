@@ -43,7 +43,7 @@ introduceMyself(introduction);
 | ----------- |
 
 <p align="left">
-  <a href="https://linkedin.com/in/paulo oliver" target="blank">
+  <a href="www.linkedin.com/in/ppoliver1996" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn"/>
     <img width="12" />
   </a>
