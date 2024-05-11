@@ -51,7 +51,7 @@ introduceMyself(introduction);
 |   LANGUAGES    |
 | ----------- |
 
-<div align="left">
+<br><div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
