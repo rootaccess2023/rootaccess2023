@@ -75,6 +75,8 @@ introduceMyself(introduction);
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="tailwindcss logo" title="Bootstrap" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="40" alt="visualstudio logo" title="Ruby on Rails" />
