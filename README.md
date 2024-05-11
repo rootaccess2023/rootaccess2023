@@ -68,7 +68,7 @@ introduceMyself(introduction);
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
-</div>
+</div><br>
 
 
 |   TOOLS & TECHNOLOGIES    |
@@ -100,7 +100,7 @@ introduceMyself(introduction);
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" title="Android Studio" />
-</div>
+</div><br>
 
 |   SUPPORT    |
 | ----------- |
