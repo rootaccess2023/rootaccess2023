@@ -60,6 +60,8 @@ introduceMyself(introduction);
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="javascript logo" title="Ruby"/>
+  <img width="12" />
 </div><br>
 
 
