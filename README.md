@@ -79,13 +79,23 @@ introduceMyself(introduction);
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="mysql logo" title="SQLite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="visualstudio logo" title="Postgres" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="40" alt="visualstudio logo" title="Ruby on Rails" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="figma logo" title="Postman" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="visualstudio logo" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="visualstudio logo" title="Github" />
   <img width="12" />
 </div><br>
 
