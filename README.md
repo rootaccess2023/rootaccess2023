@@ -21,7 +21,8 @@
 |   INTRO     |
 | ----------- |
 
-<br>```JavaScript
+<br>
+```JavaScript
 const introduction = {
   name: "Paulo Oliver",
   profession: "Front End Developer",
