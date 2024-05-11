@@ -16,12 +16,11 @@
 |   TROPHIES     |
 | ----------- |
 
-<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023&theme=onedark" alt="rootaccess2023" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootaccess2023&theme=onedark" alt="rootaccess2023" /></a> </p>
 
 |   INTRO     |
 | ----------- |
 
-<br>
 ```JavaScript
 const introduction = {
   name: "Paulo Oliver",
