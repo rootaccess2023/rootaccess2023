@@ -43,10 +43,6 @@ introduceMyself(introduction);
 | ----------- |
 
 <p align="left">
-  <a href="polo.revilo19@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo" title="Gmail"/>
-    <img width="12" />
-  </a>
   <a href="https://linkedin.com/in/paulo oliver" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="LinkedIn"/>
     <img width="12" />
